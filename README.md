@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Site Bulcão é uma página estática inicial criada com recursos do AI Studio (Gemini). Este repositório contém os arquivos-base para uma landing page simples com banner, texto de apresentação e call-to-action.
+Site Bulcão é uma página estática inicial criadapara divulgação de serviços. Este repositório contém os arquivos-base para uma landing page simples com banner, texto de apresentação e call-to-action.
 
 > Observação: o conteúdo atual é um template gerado automaticamente. Personalize imagens, textos e links conforme necessário.
 
